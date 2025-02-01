@@ -7,7 +7,7 @@ I'm a Software Engineer, Website Maintenance, and Social Media Manager who curre
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
-- 🌱 I’m currently learning HTML, CSS, Javascript, Reactjs, and Python.
+- 🌱 I’m currently learning HTML, CSS, Javascript, Reactjs, and Nodejs.
 - 😊 Seeking assistance with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, Backend Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can contact me by Phone: 09023226940 or Email: sodiqogunmola049@gmail.com.
